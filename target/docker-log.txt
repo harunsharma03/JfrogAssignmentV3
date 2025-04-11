@@ -1,0 +1,9 @@
+COMMAND: docker pull alpine:3.9
+ERROR: Cannot run program "docker": error=2, No such file or directory
+COMMAND: docker pull alpine:3.9
+ERROR: Cannot run program "docker": error=2, No such file or directory
+COMMAND: docker pull alpine:3.9
+ERROR: Cannot run program "docker": error=2, No such file or directory
+COMMAND: docker pull alpine:3.9
+ERROR: Cannot run program "docker": error=2, No such file or directory
+COMMAND: docker pull alpine:3.9

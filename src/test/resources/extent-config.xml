@@ -1,0 +1,9 @@
+<extentreports>
+	<configuration>
+		<theme>standard</theme>
+		<encoding>UTF-8</encoding>
+		<documentTitle>JFrog Test Report</documentTitle>
+		<reportName>Automation Results</reportName>
+		<timestampFormat>dd MMMM yyyy HH:mm:ss</timestampFormat>
+	</configuration>
+</extentreports>
